@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: docker-react
+  annotations:
+    github.com/project-slug: billwimer/docker-react
+spec:
+  type: other
+  lifecycle: unknown
+  owner: billwimer
